@@ -76,7 +76,7 @@ span{
 .main-header{
 	width: 100%;
 	height: 100vh;
-	background: url(../img/pet.png);
+	background: url(img/pet.png);
 	background-size: cover;
 	background-position: center;
 	position: relative;
